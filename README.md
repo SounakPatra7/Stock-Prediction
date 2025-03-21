@@ -1,6 +1,6 @@
 # Stock-Prediction
 
-## Final Year Project 
+### Final Year Project 
 
 –> Built an LSTM model in TensorFlow, achieving 85% prediction accuracy.
 
